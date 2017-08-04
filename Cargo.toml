@@ -1,0 +1,8 @@
+[package]
+name = "rustplot"
+version = "0.1.0"
+authors = ["Scott Loyd <scott.loyd@gtri.gatech.edu>"]
+
+[dependencies]
+glium = "*"
+winit = "*"
